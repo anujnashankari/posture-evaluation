@@ -20,9 +20,12 @@ The application is designed to be responsive and works on both desktop and mobil
 1. Clone the repository:
 git clone https://github.com/your-username/posture-evaluation.git
 cd posture-evaluation
+
 2.Install dependencies:
 npm install
+
 3.Start the development server:
 npm run dev
+
 4.Open your browser and go to:
 http://localhost:3000
